@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="202" width="360" src="https://imgflip.com/gif/8n1nil"  />
+<img align="right" height="202" width="360" src="gifp.gif"  />
 
 ###
 
@@ -52,11 +52,3 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/TarekAhamed-LIV3D/TarekAhamed-LIV3D/output/snake.svg" alt="Snake animation" />
-
-###
